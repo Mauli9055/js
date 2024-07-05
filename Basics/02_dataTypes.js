@@ -17,3 +17,4 @@ let isloggedIn = false;
 console.log(typeof age);
 console.log(typeof null); // null is a object in typeof 
 console.log(typeof undefined);
+
